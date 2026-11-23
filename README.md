@@ -1,7 +1,6 @@
 # Ejercicios de Algoritmia y Optimizacion
 
-## Diego Alejandro Puente Ruiz
-## Matricula 2095327
+## Diego Alejandro Puente Ruiz ## Matricula 2095327 ##URL Video: https://youtu.be/kmWlB3VhdhU
 
 ## Estructura
 ```
