@@ -1,5 +1,8 @@
 # Ejercicios de Algoritmia y Optimizacion
 
+## Diego Alejandro Puente Ruiz
+## Matricula 2095327
+
 ## Estructura
 ```
 src/        codigo (tsp.py = utilidades comunes; un script por ejercicio)
